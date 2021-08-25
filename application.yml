@@ -1,1 +1,5 @@
 server.port: 5054
+spring-app-url : cart-boot-app
+
+
+
